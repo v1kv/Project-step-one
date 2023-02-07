@@ -1,7 +1,7 @@
 const galleryThumbs = new Swiper('.gallery-thumbs', {
   spaceBetween: 16,
   slidesPerView: 4,
-  loop: true,
+  loop: false,
   freeMode: true,
   loopedSlides: 5,
   watchSlidesProgress: true,
