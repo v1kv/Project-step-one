@@ -614,3 +614,15 @@ footer {
 .gallery-thumbs .swiper-slide-thumb-active {
   opacity: 1;
 }
+
+.grid-item {
+  width: 378px;
+}
+.grid-item--width2 {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 378px;
+}
+.grid-item--width3 img {
+  width: 160px;
+}
